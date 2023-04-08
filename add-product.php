@@ -45,6 +45,10 @@
                         <input type="text" class="form-control" id="product_name">
                     </div>
                     <div class="form-group">
+                        <label for="product_dfeatures">Ürün Özellikleri</label>
+                        <textarea class="form-control" id="product_features" rows="2"></textarea>
+                    </div>
+                    <div class="form-group">
                         <label for="product_description">Ürün Açıklaması</label>
                         <textarea class="form-control" id="product_description" rows="3"></textarea>
                     </div>

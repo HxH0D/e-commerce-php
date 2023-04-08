@@ -7,7 +7,7 @@
                     <a class="text-body mr-3" href="">Contact</a>
                     <a class="text-body mr-3" href="">Help</a>
                     <a class="text-body mr-3" href="">FAQs</a>
-                    <a class="text-body mr-3" href="">Admin</a>
+                    <a class="text-body mr-3" href="admin.php">Admin</a>
 
                 </div>
             </div>
